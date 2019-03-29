@@ -1,0 +1,13 @@
+{
+	"data": [
+	  {
+			"id": 1,
+			"code": "001",
+			"name": "Category 1",
+			"description": "Description Category One",
+			"status": 1,
+			"maincat": null,
+			"position": 1,
+	  }
+  ]
+}

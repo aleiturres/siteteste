@@ -1,0 +1,49 @@
+{
+	"data": [
+		{
+			"route": "/home", 
+			"label": "Home", 
+			"newWindow": false, 
+			"mainLink": null, 
+			"status": 1, 
+			"subLinks": [] 
+		},
+		{
+			"route": "/menu", 
+			"label": "Menu", 
+			"newWindow": false, 
+			"mainLink": null, 
+			"status": 1, 
+			"subLinks": [] 
+		},
+		{
+			"route": "/paginas", 
+			"label": "Páginas", 
+			"newWindow": false, 
+			"mainLink": null, 
+			"status": 1, 
+			"subLinks": [
+				{
+					"route": "/paginas/teste", 
+					"label": "Página Teste", 
+					"newWindow": false, 
+					"status": 1
+				},
+				{
+					"route": "/paginas/empresa", 
+					"label": "Empresa", 
+					"newWindow": false, 
+					"status": 1
+				}
+			]  
+		},
+		{
+			"route": "/menu", 
+			"label": "Menu", 
+			"newWindow": false, 
+			"mainLink": null, 
+			"status": 1, 
+			"subLinks": [] 
+		}
+	]
+}

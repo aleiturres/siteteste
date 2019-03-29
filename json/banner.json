@@ -1,0 +1,60 @@
+{
+	"data": [
+		{
+			"top": 34,
+			"left": 22,
+			"hasText": true,
+			"backgroundBox": "3,155,229",
+			"opacityBox": 0,
+	  	"title": "30% OFF",
+	  	"colorTitle": "white--text",
+	  	"subtitle": "ALL COLLECTIONS",
+	  	"colorSubtitle": "grey--text",
+	  	"description": "Get inspired while driving",
+	  	"colorDescription": "red--text",
+	    "src": "https://cdn.vuetifyjs.com/images/carousel/squirrel.jpg"
+    },
+		{
+			"top": 10,
+			"left": 10,
+			"hasText": true,
+			"backgroundBox": "27,94,32",
+			"opacityBox": 0.2,
+	  	"title": "30% OFF",
+	  	"colorTitle": "white--text",
+	  	"subtitle": "ALL COLLECTIONS",
+	  	"colorSubtitle": "grey--text",
+	  	"description": "Get inspired while driving",
+	  	"colorDescription": "red--text",
+	    "src": "https://cdn.vuetifyjs.com/images/carousel/sky.jpg"
+    },
+		{
+			"top": 10,
+			"left": 10,
+			"hasText": true,
+			"backgroundBox": "255,255,255",
+			"opacityBox": 0.2,
+	  	"title": "30% OFF",
+	  	"colorTitle": "white--text",
+	  	"subtitle": "ALL COLLECTIONS",
+	  	"colorSubtitle": "grey--text",
+	  	"description": "Get inspired while driving",
+	  	"colorDescription": "red--text",
+	    "src": "https://cdn.vuetifyjs.com/images/carousel/bird.jpg"
+    },
+		{
+			"top": 10,
+			"left": 10,
+			"hasText": true,
+			"backgroundBox": "255,255,255",
+			"opacityBox": 0.2,
+	  	"title": "30% OFF",
+	  	"colorTitle": "white--text",
+	  	"subtitle": "ALL COLLECTIONS",
+	  	"colorSubtitle": "grey--text",
+	  	"description": "Get inspired while driving",
+	  	"colorDescription": "red--text",
+	    "src": "https://cdn.vuetifyjs.com/images/carousel/planet.jpg"
+    }
+	]
+}

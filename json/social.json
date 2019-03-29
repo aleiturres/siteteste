@@ -1,0 +1,7 @@
+{
+	"data": [
+		{"icon": "mdi-facebook-box", "link": "https://www.facebook.com"},
+		{"icon": "mdi-twitter-box", "link": "https://twitter.com/"},
+		{"icon": "mdi-pinterest-box", "link": "https://br.pinterest.com/"}
+	]
+}

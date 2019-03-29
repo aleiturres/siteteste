@@ -1,0 +1,15 @@
+{
+	"data": [
+	  {
+      "id": 1,
+      "product_id": [1],
+      "code": "001",
+      "name": "Complement 1",
+      "description": "Description Complement",
+      "salePrice": "40.34",
+      "promoPrice": "20.43",
+      "status": 1,
+      "promotionEnabled": 0,
+	  }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+	"data": [
+	  {
+	      "id": 1,
+	      "product_id": 2,
+	      "image": "https://cdn.vuetifyjs.com/images/carousel/sky.jpg",
+	      "thumbnail": "https://cdn.vuetifyjs.com/images/carousel/sky.jpg",
+	      "title": "título Imagem",
+	      "description": "descrição Imagem",
+	      "position": 1
+	  },
+	  {
+	      "id": 2,
+	      "product_id": 1,
+	      "image": "https://cdn.vuetifyjs.com/images/carousel/sky.jpg",
+	      "thumbnail": "https://cdn.vuetifyjs.com/images/carousel/sky.jpg",
+	      "title": "título Imagem",
+	      "description": "descrição Imagem",
+	      "position": 2
+	  }
+  ]
+}
